@@ -1,0 +1,23 @@
+1) mkdir first
+2) cd first
+3) touch person.txt
+4) mv person.txt another.txt
+5) cp another.txt copy.txt
+6) rm copy.txt
+7) cp -r first second
+8) rm -rf second
+
+part 2
+
+1) man rm (D or B to go up/down a page) (Q to quit/exit)
+2) 'l' lists files in a list format  (`-a` lists all files including hidden)
+3) Ctrl + Left/Right
+4) Ctrl + e
+5) Ctrl + a
+6) Ctrl + w or Ctrl + delete
+7) Shell is a program that processes commands and returns outputs.
+	Terminal is a wrapper program that runs a Shell.
+8) An absolute path is a path that starts from the root route and gives the complete location for a file or folder.
+9) A relative path is a path that starts at the current location and not the root route.
+10) Flags add functionality to commands, such as -r -a -f
+11)adding -rf will remove the folder and all contents within said folder
